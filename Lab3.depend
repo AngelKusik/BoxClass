@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1645928756 source:c:\users\angel\desktop\dcwinter22\oop1\oopprograms\lab3\main.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	<cctype>
+	<sstream>
+	<limits>
+	<vector>
+
